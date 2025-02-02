@@ -6,6 +6,8 @@ To install, clone the repo inside your `~/.config/yazi/plugins/`:
 
 ```bash
 git clone https://git.kyuti.es/HeyImKyu/unzstd.yazi.git unzstd.yazi
+# or
+git clone https://github.com/HeyImKyu/unzstd.yazi.git unzstd.yazi
 ```
 
 Then bind it for any combination of keys (here c -> u), in your `keymap.toml`:

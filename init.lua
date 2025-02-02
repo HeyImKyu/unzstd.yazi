@@ -19,10 +19,10 @@ return {
   entry = function()
     local h = cx.active.current.hovered
     if h == nil then
-     return
+      return
     end
     if is_zstd(h:mime()) then
-     local path = extract_zstd(tostring(h.url))
+      local path = extract_zstd(tostring(h.url))
     end
   end,
 }
