@@ -12,7 +12,7 @@ Then bind it for any combination of keys (here c -> u), in your `keymap.toml`:
 
 ```toml
 [[manager.prepend_keymap]]
-on   = [ "c" "u" ]
+on   = [ "c", "u" ]
 run  = "plugin unzstd"
 desc = "unzstd"
 ```
