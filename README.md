@@ -1,6 +1,6 @@
 # unzstd.yazi
 
-Plugin for [Yazi](https://github.com/sxyazi/yazi) to uncompress .tar.zst and .zst files hovered by cursor.
+Plugin for [Yazi](https://github.com/sxyazi/yazi) to uncompress `.tar.zst` and `.zst` files hovered by cursor.
 
 To install, clone the repo inside your `~/.config/yazi/plugins/`:
 
